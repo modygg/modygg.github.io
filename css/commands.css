@@ -76,7 +76,7 @@ nav {
   color: #b1b1b1;
 }
 .active-btn {
-  background-color: #3f4cd8;
+  background-color: #4de873;
   color: #ffffff;
 }
 .btn-premium:hover {
@@ -100,7 +100,7 @@ nav {
 }
 
 .btn-primary:hover {
-  background-color: #121b2c;
+  background-color: #5ea670;
   border: 1px solid #121b2c;
 }
 .premium-tag {
@@ -144,7 +144,7 @@ hr {
 }
 .accordion-button:focus,
 .accordion-button:active {
-  background-color: #212c42 !important;
+  background-color: #284f35 !important;
   color: #ffffff !important;
 }
 
